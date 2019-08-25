@@ -2,8 +2,8 @@
 Learning AI to play flappy bird with NEAT.
 
 Requirements:
-  **pygame
-  **neat-python
+Markup : * pygame
+          * neat-python
   
 Documentation for neat-python: https://neat-python.readthedocs.io
 
